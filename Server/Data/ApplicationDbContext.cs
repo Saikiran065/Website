@@ -15,4 +15,4 @@ public class ApplicationDbContext : DbContext
     {
         optionsBuilder.UseSqlServer("Server=SAIKIRAN\\SQLEXPRESS;Database=JobTrackerDB;Trusted_Connection=True;Encrypt=False");
     }
-}
+} 
